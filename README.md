@@ -20,4 +20,4 @@ Compile file: make dbfiles
 We create a MakeFile to compile our programme and then execute it.
 
 Note: More information on the code can be found in the pdf attached to the folder. 
-Name file: Coding@HSG_MACS_1187GroupID.pdf
+Name file: Coding@HSG_MACS_1187GroupID
